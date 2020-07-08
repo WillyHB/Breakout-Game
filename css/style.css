@@ -1,0 +1,13 @@
+canvas {
+    background: rgb(10, 121, 0);
+    margin-left: 200px;
+    border-width: medium;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+}
+#HeaderText{
+    margin-left: 500px;
+}
+body{
+    background-color: teal;
+}
